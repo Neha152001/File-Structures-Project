@@ -1,0 +1,8 @@
+   Items              Price
+1.Idly                 20
+2.Masala Dosa          25
+3.Upma                 20
+4.Poori & Sagu         30
+5.Veg Pulav            25
+6.Roti & Curry         30
+7.Parathas             35
